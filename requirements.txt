@@ -1,5 +1,5 @@
 langchain
-PyPDF2==1.23
+PyPDF2
 openai
 Flask
 gunicorn
