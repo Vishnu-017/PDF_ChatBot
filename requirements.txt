@@ -5,3 +5,4 @@ Flask
 gunicorn
 python-dotenv
 tiktoken
+faiss-cpu
