@@ -4,3 +4,4 @@ openai
 Flask
 gunicorn
 python-dotenv
+tiktoken
